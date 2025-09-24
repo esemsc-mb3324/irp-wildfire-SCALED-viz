@@ -20,11 +20,12 @@ This repository contains visualizations organized by dataset and training phase:
   - `validation/`: Validation phase visualizations
   - `testing/`: Testing phase visualizations
 
-## Usage
+## Folder Description
 
 Each dataset folder contains three subfolders for different phases of the machine learning pipeline:
 - **training**: Visualizations generated during model training
+  - One timestep to the next
 - **validation**: Visualizations from model validation
+  - One timestep to the next
 - **testing**: Final visualizations from model testing
-
-Place your visualization files (plots, charts, images, etc.) in the appropriate folder based on the dataset and training phase.
+  - Gifs spanning 6, 12 and 24 hrs
