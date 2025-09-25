@@ -6,19 +6,19 @@ Visualizations from applying SCALED model to wildfire spread prediction
 This repository contains visualizations organized by dataset and training phase:
 
 - **01-data/**: Visualizations from Dataset 01
-  - `training/`: Training phase visualizations
-  - `validation/`: Validation phase visualizations
-  - `testing/`: Testing phase visualizations
 
 - **02-data/**: Visualizations from Dataset 02
-  - `training/`: Training phase visualizations
-  - `validation/`: Validation phase visualizations
-  - `testing/`: Testing phase visualizations
 
 - **03-data/**: Visualizations from Dataset 03
-  - `training/`: Training phase visualizations
-  - `validation/`: Validation phase visualizations
-  - `testing/`: Testing phase visualizations
+
+- **03-large-gif-viz/**: Large-scale rollout visualizations for specific wildfire cases over 12 hours
+  - `gif-case-1.gif`: 12-hr rollout inference result in East Tehama, California, USA on 3.8km by 3.8km (40.322577,-121.915029)
+  - `gif-case-13.gif`: 12-hr rollout inference result in Hollister, California, USA on 3.8km by 3.8km (36.812501,-121.26932)
+  - `gif-case-15.gif`: 12-hr rollout inference result in San Benito, California, USA on 3.8km by 3.8km (36.558854,-121.109949)
+  - `gif-case-16.gif`: 12-hr rollout inference result in Surprise Valley, California, USA on 3.8km by 3.8km (41.3436,-120.102824)
+  - `gif-case-29.gif`: 12-hr rollout inference result in Newman, California, USA on 3.8km by 3.8km (37.759676,-120.714946)
+  - `gif-case-36.gif`: 12-hr rollout inference result in Newman, California, USA on 3.8km by 3.8km (37.146164,-121.224374)
+  - `gif-case-37.gif`: 12-hr rollout inference result in Sloughhouse, California, USA on 3.8km by 3.8km (38.569248,-121.15883)
 
 ## Folder Description
 
